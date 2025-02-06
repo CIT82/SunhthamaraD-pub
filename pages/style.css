@@ -32,11 +32,11 @@ label {
   
   body.outline {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #a39595;
   }
   
   header {
-    background-color: #333;
+    background-color: #961414;
     color: white;
     padding: 10px;
     text-align: center;
@@ -45,17 +45,18 @@ label {
   footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: #aa1515;
     color: white;
     position: fixed;
     width: 100%;
     bottom: 0;
   }
   
-       ul, ol {
-                display: inline block;
-                margin: 0;
-                padding: 0;
-                vertical-align: top;
-            }
-        
+  .lists {
+    display: flex;
+  }
+  
+  .unordered-list, .ordered-list {
+    margin: 0 20px; 
+  }
+  
