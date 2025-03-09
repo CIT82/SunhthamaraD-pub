@@ -1,9 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #16D5FF;
-    --secondary: #999999;
+    --primary: #030300;
+    --secondary: #353434;
     --light: #F2F8FE;
     --dark: #111111;
+    background-blend-mode: color-burn;
 }
 
 .back-to-top {
@@ -46,7 +47,7 @@ h6,
 }
 
 .btn.btn-primary {
-    color: #FFFFFF;
+    color: #dd2ca2;
 }
 
 .btn-square {
@@ -95,7 +96,7 @@ h6,
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color-interpolation-filters: linearRGB;
 }
 
 .navbar .dropdown-toggle::after {
@@ -145,7 +146,7 @@ h6,
 
 /*** Header ***/
 .hero-header .breadcrumb-item+.breadcrumb-item::before {
-    color: var(--secondary);
+    color: var(--primary);
 }
 
 
