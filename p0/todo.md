@@ -1,16 +1,19 @@
-- [] update <title>CryptoCoin - Free Cryptocurrency Website Template</title> and meta data
-- [] update navbar 
-- [] remove <i class="fab fa-facebook-f"></i>
-- [] remove <i class="fab fa-linkedin-in"></i>
-- [] update h2
-- [] update <h1 class="display-4 mb-3 animated slideInDown">Make Better Life With Trusted CryptoCoin</h1>
-- [] remove <p class="animated slideInDown"></p>
-- [] replace "img/hero-1.png"
-- [] replace "img/about.png"
-- [] update <div class="h-100">
-- [] update <div class="row g-5">
-- [] update <div class="container"> text
-- [] update <div class="container py-5">
-- [] remove <div class="container-xxl py-5">
-- [] remove <div class="container-xxl bg-light py-5 my-5">
-Their are too much div classes that either have to update or remove
+- [x] update <title>CryptoCoin - Free Cryptocurrency Website Template</title> and meta data
+- [x] update navbar 
+- [x] work on navbar
+- [x] add more content
+- [x] update h2
+- [x] update Make Better Life With Trusted CryptoCoin</h1>
+- [x] remove <p class="animated slideInDown"></p>
+- [x] replace "img/hero-1.png"
+- [x] replace "img/about.png"
+- [x] update links
+- [x] update sitemap.html
+- [x] update footer
+- [x] update title on every page
+- [x] remove some contact content
+- [x] remove button up page
+- [x] add more pages
+- [x] add new images
+- [x] add favicon
+- [x] update copyright
